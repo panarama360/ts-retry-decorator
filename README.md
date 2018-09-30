@@ -1,6 +1,6 @@
 # ts-retry-decorator
 ts-retry-decorator
-
+Based on [promise-retry](https://github.com/IndigoUnited/node-promise-retry)
 Base Usage
 
 ```typescript
