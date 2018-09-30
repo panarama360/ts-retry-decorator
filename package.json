@@ -1,11 +1,20 @@
 {
   "name": "ts-retry-decorator",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "author": "Ivan Surkov <panarama360@gmail.com>",
   "main": "build/index.js",
   "typings": "types/index.d.ts",
   "repository": "git@github.com:panarama360/ts-retry-decorator",
-  "keywords": ["retry","repeat","replay","typescript","decorator","decorators","ts","annotation"],
+  "keywords": [
+    "retry",
+    "repeat",
+    "replay",
+    "typescript",
+    "decorator",
+    "decorators",
+    "ts",
+    "annotation"
+  ],
   "dependencies": {
     "promise-retry": "^1.1.1"
   }
