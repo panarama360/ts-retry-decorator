@@ -1,7 +1,7 @@
 export interface RetryOptions {
-    retries: number
-    factor: number
-    minTimeout: number
-    maxTimeout: number
-    randomize: boolean
+    retries?: number
+    factor?: number
+    minTimeout?: number
+    maxTimeout?: number
+    randomize?: boolean
 }
