@@ -1,9 +1,9 @@
 {
   "name": "ts-retry-decorator",
-  "version": "0.0.3",
+  "version": "0.0.5",
   "author": "Ivan Surkov <panarama360@gmail.com>",
   "main": "build/index.js",
-  "typings": "types/index.d.ts",
+  "typings": "build/types/index.d.ts",
   "repository": "git@github.com:panarama360/ts-retry-decorator",
   "keywords": [
     "retry",
